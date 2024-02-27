@@ -2,5 +2,9 @@
     {
         "package": "codigo",
         "url": "https://github.com/OxfordIHTM/codigo"
+    },
+    {
+        "package": "oxfordtheme",
+        "url": "https://github.com/OxfordIHTM/oxfordtheme"
     }
 ]
