@@ -6,5 +6,9 @@
     {
         "package": "oxthema",
         "url": "https://github.com/OxfordIHTM/oxthema"
+    },
+    {
+        "package": "africalaws",
+        "url": "https://github.com/OxfordIHTM/africalaws"
     }
 ]
