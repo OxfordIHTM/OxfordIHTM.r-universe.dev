@@ -10,5 +10,9 @@
     {
         "package": "africalaws",
         "url": "https://github.com/OxfordIHTM/africalaws"
+    },
+    {
+        "package": "aurora",
+        "url": "https://github.com/OxfordIHTM/aurora"
     }
 ]
