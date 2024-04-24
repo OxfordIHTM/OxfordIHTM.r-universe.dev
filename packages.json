@@ -14,5 +14,9 @@
     {
         "package": "aurora",
         "url": "https://github.com/OxfordIHTM/aurora"
+    },
+    {
+        "package": "oxcgrt",
+        "url": "https://github.com/OxfordIHTM/oxcgrt"
     }
 ]
