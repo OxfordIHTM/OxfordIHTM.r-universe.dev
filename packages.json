@@ -22,5 +22,9 @@
     {
         "package": "oxcgrt",
         "url": "https://github.com/OxfordIHTM/oxcgrt"
+    },
+    {
+        "package": "pactr",
+        "url": "https://github.com/OxfordIHTM/pactr"
     }
 ]
