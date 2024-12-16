@@ -26,5 +26,9 @@
     {
         "package": "pactr",
         "url": "https://github.com/OxfordIHTM/pactr"
+    },
+    {
+        "package": "naruto",
+        "url": "https://github.com/OxfordIHTM/naruto"
     }
 ]
